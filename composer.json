@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/prompts": "^0.1.15",
+        "janyksteenbeek/youtubepartner": "v1.1.20220511.2"
+    }
+}
